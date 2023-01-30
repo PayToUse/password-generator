@@ -17,9 +17,10 @@ button {
     border: 3px solid #444488;
     background-color: #333366;
     color: #FFFFFF;
-    padding: 20px;
+    padding: 12px;
     font-family: "ProductSans";
     font-size: 15pt;
+    border-radius: 30px;
 }
 h3 {
     font-family: "BreezeSans";
